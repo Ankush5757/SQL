@@ -1,3 +1,5 @@
 # SQL
-This is my SQL case study 
+<br>
+This is my SQL case study
+<br>
 Author - Ankush Jadhav
